@@ -1,5 +1,3 @@
-<img width="463" height="514" alt="Capture d&#39;écran 2025-11-13 140157" src="https://github.com/user-attachments/assets/071766b7-58df-4e2e-a69d-f0a2a7ef001e" />
-<img width="463" height="514" alt="Capture d&#39;écran 2025-11-13 140157" src="https://github.com/user-attachments/assets/83170fd2-e655-4d0e-aec0-039236d747db" />
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -94,6 +92,7 @@ Tous les ans l'ESI d'Orléans participe au Cross de Bercy. Cette année :<br>
 🏆 Eric 10km 630ème<br>
 🏆 Charles-Etienne 10km 127ème<br>
 👏 Bravo à eux et aux 2000 coureurs !</p>
+<img width="463" height="514" alt="Capture d&#39;écran 2025-11-13 140157" src="https://github.com/user-attachments/assets/83170fd2-e655-4d0e-aec0-039236d747db" />
 `; break;
     case 4: box.innerHTML+=`<h2>Jour 4</h2><p>Le site des Marsauderies acceuil chaque année des nouveaux moutons🐑<strong style='color:red;'><Quiz:</p></strongstyle='color:red;'><p> Savez-vous combien d'agneaux la DiSI CO a eu ce printemps ?</p><form id='quiz4'><label><input type='radio' name='ans4' value='1'> 1</label><br><label><input type='radio' name='ans4' value='2'> 2</label><br><label><input type='radio' name='ans4' value='3'> 3</label><br><button type='button' onclick='checkQuiz("quiz4","3","res4","info4")'>Valider</button></form><p id='res4'></p>`; break;
     case 5: box.innerHTML+=`<h2>Jour 5</h2><p>Le mois de l'innovation publique s'est déroulé le mois dernier avec comme thème l'IA.</p><p><strong style='color:red;'>Quiz :<p></strong> En quelle année l'IA a été créée ?</p><form id='quiz5'><label><input type='radio' name='ans5' value='1956'> 1956</label><br><label><input type='radio' name='ans5' value='1962'> 1962</label><br><label><input type='radio' name='ans5' value='1970'> 1970</label><br><button type='button' onclick='checkQuiz("quiz5","1956","res5","info5")'>Valider</button></form><p id='res5'></p>`; break;
